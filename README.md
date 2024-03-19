@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 ## GitHub Stats 📈 :
 
 <br>
+  <br>
+  
+[![NKDuyennn's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKDuyennn&theme=tokyonight)](https://git.io/praveenscience)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NKDuyennn&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![NKDuyennn GitHub stats](https://github-readme-stats.vercel.app/api?username=NKDuyennn&theme=algolia)](https://github.com/NKDuyennn/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKDuyennn&theme=algolia)](https://github.com/NKDuyennn/github-readme-stats) [![NKDuyennn wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+| ![NKDuyennn's github stats](https://github-readme-stats.vercel.app/api?username=NKDuyennn&show_icons=true&theme=tokyonight) | ![NKDuyennn GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NKDuyennn&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKDuyennn&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NKDuyennn&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 <br>
