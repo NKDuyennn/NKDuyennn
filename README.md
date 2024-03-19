@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 | ![NKDuyennn's github stats](https://github-readme-stats.vercel.app/api?username=NKDuyennn&show_icons=true&theme=tokyonight) | ![NKDuyennn GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NKDuyennn&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKDuyennn&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NKDuyennn&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![NKDuyennn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKDuyennn&theme=tokyonight&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NKDuyennn&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
