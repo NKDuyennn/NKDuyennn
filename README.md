@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-**NKDuyennn/NKDuyennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BK Galaxy
-- 🌱 I’m currently learning Hanoi University of Science and Technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her/Hers 
+- 🔭 I’m currently working on: Super resolution and vision language model.
+- :heart: My favorite language: Python
+- 🌱 I’m currently learning: ML, DL, Computer Vision and Data Science.
+- 👯 I’m always looking to collaborate with: scientist from any field
+- 💬 Ask me about: anything, I am happy to help
+- 🌍 I support: GDSC, FPT Young TTalent, BK Galaxy
+- 💜 Interests: philosophy, travel, corgi, internet culture, video games, sports
+- ⚡ Fun fact: My ultimate dream is to create an extraterrestrial human civilization.🖖
 
 
 ## GitHub Stats 📈 :
