@@ -24,11 +24,3 @@
 
 <br>
 
-<!-- ![Snake animation](https://github.com/NKDuyennn/NKDuyennn/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/NKDuyennn/NKDuyennn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ## 📚 &nbsp;My Projects -->
-
