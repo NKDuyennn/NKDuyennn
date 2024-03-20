@@ -23,3 +23,12 @@
 
 
 <br>
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+<!-- ## 📚 &nbsp;My Projects -->
+
